@@ -35,9 +35,7 @@
         PDK                              CatalogPC.cab                   Quarterly once                             2564 18.03.2026 07:42:43 2026-03-17T07:42:29-05:00              37
         SCCM-Dell-Business-Client-Update DellSDPCatalogPC.cab            Monthly twice 2nd and 4th Tuesday          9775 10.04.2026 14:14:47 2026-04-09T05:58:50                    14
         Software Gallery                 DellAppCatalogPC.cab            Monthly Once (Last working day)              54 30.03.2026 09:26:29 2026-03-13T03:58:50                    41
-        unknown                          CatalogPCIT.cab                 unknown                                     127 12.10.2021 15:24:55 2021-08-06T18:58:14+05:30            1721
-   
-    
+         
 #>
 
 
